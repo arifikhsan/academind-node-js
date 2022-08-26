@@ -1,0 +1,17 @@
+{
+  "name": "academind-node-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:arifikhsan/academind-node-js.git",
+  "author": "Arif Ikhsanudin <arif.ikhsanudin@mitrais.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
